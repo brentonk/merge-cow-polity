@@ -5,7 +5,7 @@ by [Brenton Kenkel](http://bkenkel.com), Vanderbilt University
 
 I'm working on a project that, like most empirical papers in international relations, requires data from both the [Correlates of War](http://correlatesofwar.org) project and the [Polity IV](http://www.systemicpeace.org/polity/polity4x.htm) project. Because [EUGene](http://www.eugenesoftware.org) hasn't been updated since 2011 and [NewGene](http://www.newgenesoftware.org) isn't available for Mac yet, I had to merge them manually. This proved to be less straightforward than I thought, so I'm writing up a script to replicate the steps I took.
 
-If you don't care about the annotations and just want the script, see [`merge-cow-polity.r`](merge-cow-polity.r). The [R Markdown](http://rmarkdown.rstudio.com) source for this file is [`merge-cow-polity.Rmd`](merge-cow-polity.Rmd).
+If you don't care about the annotations and just want the script, see [`merge-cow-polity.r`](merge-cow-polity.r). The [R Markdown](http://rmarkdown.rstudio.com) source for this file is [`merge-cow-polity.Rmd`](merge-cow-polity.Rmd?raw=true).
 
 If you see something wrong or want to extend this, feel free to [file an issue](https://github.com/brentonk/merge-cow-polity/issues) or a [pull request](https://github.com/brentonk/merge-cow-polity/pulls) on the associated GitHub repo. Or, if you're old-fashioned about these things, send me an email.
 
